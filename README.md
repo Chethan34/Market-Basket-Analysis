@@ -1,4 +1,4 @@
-# Masket Basket Analysis (Grocery Store)
+# Market Basket Analysis (Grocery Store)
 
 ## Project Overview
 This project analyzes customer purchase patterns in a grocery store using the Apriori algorithm for association rule mining. The goal is to uncover insights about customer behavior and product associations that can inform business strategies.
@@ -39,9 +39,6 @@ The notebook provides insights after each major step, including:
 3. Place the 'Groceries_dataset.csv' file in the same directory as the notebook.
 4. Open the `MasketBasketAnalysis.ipynb` file in Jupyter Notebook.
 5. Run all cells in the notebook to see the analysis and results.
-
-## Contributing
-Feel free to fork this project and submit pull requests with improvements or open issues for any bugs or suggestions.
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
